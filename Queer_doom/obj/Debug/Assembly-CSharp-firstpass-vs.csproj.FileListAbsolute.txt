@@ -1,0 +1,10 @@
+C:\Users\family\Documents\Queer_doom\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\family\Documents\Queer_doom\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\family\Documents\Queer_doom\Temp\bin\Debug\UnityEditor.dll
+C:\Users\family\Documents\Queer_doom\Temp\bin\Debug\UnityEngine.dll
+C:\Users\family\Documents\Queer_doom\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\family\Documents\Queer_doom\Temp\bin\Debug\nunit.framework.dll
+C:\Users\family\Documents\Queer_doom\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\family\Documents\Queer_doom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\family\Documents\Queer_doom\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\family\Documents\Queer_doom\obj\Debug\Assembly-CSharp-firstpass.pdb
